@@ -103,3 +103,4 @@ Estudante de Analise e Desenvolvimento de Sistemas.
 
 Desenvolvido com Python por Pedro Gabriel.
 Aprender, praticar e evoluir!\n
+
